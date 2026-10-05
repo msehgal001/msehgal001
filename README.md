@@ -1,16 +1,44 @@
-## Hi there 👋
+# Madhav Sehgal
 
-<!--
-**msehgal001/msehgal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aerospace & systems engineering · AI tools · Simulation & test automation
 
-Here are some ideas to get you started:
+I build software that makes engineering work easier to plan, execute, and verify. My work connects aerospace testing, requirements engineering, machine learning, and practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**M.S.E. Aerospace Engineering, University of Michigan · INCOSE ASEP**
+
+[Portfolio](https://msehgal.net) · [LinkedIn](https://www.linkedin.com/in/sehgalm/) · [Email](mailto:msehgal@umich.edu)
+
+## Selected projects
+
+| Project | What I built |
+| --- | --- |
+| [**Understudy**](https://github.com/msehgal001/understudy) | An AI offboarding agent across GitHub, Drive, Linear, and Slack, with rehearsal, independent outcome verification, and a scenario evaluation harness. |
+| [**TestBedz**](https://github.com/msehgal001/tb3) | A web application for aerospace test intake, facility information, and campaign tracking, with Firebase-backed client and administrator workflows. |
+| [**AgriSat**](https://github.com/msehgal001/hangar-05519e/tree/main/agrisat) | Satellite-based farm intelligence combining vegetation indices, weather, and field advisories. Public interface bundle in Hangar. |
+| [**SE-BRIDGE**](https://github.com/msehgal001/hangar-05519e/tree/main/sebridge) | Systems engineering tools for requirements audits, subsystem relationships, engineering guidance, and migration. Public interface bundle in Hangar. |
+| [**Job Command**](https://github.com/msehgal001/JobTrackerApp) | A job-search workspace with application tracking, outreach, resume tailoring, cloud persistence, and offline caching. |
+
+[**Hangar**](https://github.com/msehgal001/hangar-05519e) brings the aerospace project interfaces and portfolio together in one hub.
+
+## Engineering background
+
+- **Aerospace test operations:** built internal workflow tools at Michigan's Space Physics Research Laboratory, reducing documentation effort by 60% across eight flight-hardware campaigns and test-request errors by 40%.
+- **Machine learning for fluids:** developed a Bayesian neural network surrogate for shock-train position at Michigan's GDI Lab, achieving R² ≈ 0.978 and approximately 18× faster prediction than the baseline workflow.
+- **Systems engineering:** spacecraft requirements, verification, test planning, and MBSE using SysML/MagicDraw.
+
+The research results above describe the associated laboratory work. The public repositories contain selected applications, prototypes, and interface bundles.
+
+## Tools I work with
+
+| Area | Tools |
+| --- | --- |
+| Software & data | Python, Flask, SQL, JavaScript, TypeScript, React |
+| Machine learning | TensorFlow, Bayesian neural networks, LLM/RAG workflows |
+| Engineering | MATLAB, ANSYS Fluent, OpenFOAM, STK, Thermal Desktop |
+| Systems & integration | SysML/MagicDraw, requirements traceability, qualification testing |
+
+## More builds
+
+[SmallSat conference companion](https://github.com/msehgal001/smallsat26) · [Workout tracker](https://github.com/msehgal001/BLS_Workout_App)
+
+Interested in roles where I can combine engineering judgment, software, and hands-on problem solving.
