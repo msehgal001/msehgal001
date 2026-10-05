@@ -14,11 +14,11 @@ I build software that makes engineering work easier to plan, execute, and verify
 | --- | --- |
 | [**Understudy**](https://github.com/msehgal001/understudy) | An AI offboarding agent across GitHub, Drive, Linear, and Slack, with rehearsal, independent outcome verification, and a scenario evaluation harness. |
 | [**TestBedz**](https://github.com/msehgal001/tb3) | A web application for aerospace test intake, facility information, and campaign tracking, with Firebase-backed client and administrator workflows. |
-| [**AgriSat**](https://github.com/msehgal001/hangar-05519e/tree/main/agrisat) | Satellite-based farm intelligence combining vegetation indices, weather, and field advisories. Public interface bundle in Hangar. |
-| [**SE-BRIDGE**](https://github.com/msehgal001/hangar-05519e/tree/main/sebridge) | Systems engineering tools for requirements audits, subsystem relationships, engineering guidance, and migration. Public interface bundle in Hangar. |
+| **AgriSat** | Satellite-based farm intelligence combining vegetation indices, weather, and field advisories. Private project; description only. |
+| **SE-BRIDGE** | Systems engineering tools for requirements audits, subsystem relationships, engineering guidance, and migration. Private project; description only. |
 | [**Job Command**](https://github.com/msehgal001/JobTrackerApp) | A job-search workspace with application tracking, outreach, resume tailoring, cloud persistence, and offline caching. |
 
-[**Hangar**](https://github.com/msehgal001/hangar-05519e) brings the aerospace project interfaces and portfolio together in one hub.
+**Hangar** is a private aerospace project hub bringing Earth observation, systems engineering, test operations, and portfolio interfaces together.
 
 ## Engineering background
 
@@ -26,7 +26,7 @@ I build software that makes engineering work easier to plan, execute, and verify
 - **Machine learning for fluids:** developed a Bayesian neural network surrogate for shock-train position at Michigan's GDI Lab, achieving R² ≈ 0.978 and approximately 18× faster prediction than the baseline workflow.
 - **Systems engineering:** spacecraft requirements, verification, test planning, and MBSE using SysML/MagicDraw.
 
-The research results above describe the associated laboratory work. The public repositories contain selected applications, prototypes, and interface bundles.
+The research results above describe the associated laboratory work. The public repositories contain selected applications and prototypes.
 
 ## Tools I work with
 
